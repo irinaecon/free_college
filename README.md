@@ -5,7 +5,7 @@ The folder “data” contains the raw data (or links to external repositories w
 The folder contains:
 (a) PSID data and related codes used to generate descriptive statistics cross-sectional moments for adult households as well as wage process estimates;
 (b) CDS_PSID (I-III) data and related codes used to generate child-elated descriptive statistics used for model calibration;
-(c) NSLY79 data used to estimate education-specific ability gradients of wages.
+(c) NLSY79 data used to estimate education-specific ability gradients of wages.
 All data are publicly available.
 2. The folder “model” contains the code used to generate model-based results in the paper. The folder contains the code used to solve and calibrate the
 general equilibrium overlapping generations model, and to generate the results plots and tables.
